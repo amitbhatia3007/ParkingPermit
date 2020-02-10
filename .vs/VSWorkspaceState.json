@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SmartCityParkingPermit",
-    "\\SmartCityParkingPermit\\SmartParkingPermit.Core",
-    "\\SmartCityParkingPermit\\SmartParkingPermit.Core\\AutoMapperProfile",
-    "\\SmartCityParkingPermit\\_Solutions",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\App_Start",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\bin",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Controllers",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Model"
+    "\\Test Solution",
+    "\\Test Solution\\_Solutions",
+    "\\Test Solution\\_Solutions\\ParkingPermitHangfire"
   ],
-  "SelectedNode": "\\SmartCityParkingPermit\\SmartParkingPermit.Core\\AutoMapperProfile\\Class.cs",
   "PreviewInSolutionExplorer": false
 }
