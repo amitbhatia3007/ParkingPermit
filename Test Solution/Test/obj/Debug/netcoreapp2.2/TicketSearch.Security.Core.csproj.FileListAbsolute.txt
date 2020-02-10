@@ -1,0 +1,35 @@
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\appsettings.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.deps.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.runtimeconfig.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.runtimeconfig.dev.json
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.dll
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.pdb
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.csprojAssemblyReference.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.Common.CoreResource.resources
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.csproj.GenerateResource.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorAssemblyInfo.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorAssemblyInfo.cs
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.AssemblyInfoInputs.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.AssemblyInfo.cs
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorTargetAssemblyInfo.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.dll
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.pdb
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.Common.CoreResource.resources
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.csproj.GenerateResource.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorAssemblyInfo.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorAssemblyInfo.cs
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.AssemblyInfoInputs.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.AssemblyInfo.cs
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.dll
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.pdb
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.deps.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.runtimeconfig.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.runtimeconfig.dev.json
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.dll
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\bin\Debug\netcoreapp2.2\TicketSearch.Security.Core.pdb
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.RazorTargetAssemblyInfo.cache

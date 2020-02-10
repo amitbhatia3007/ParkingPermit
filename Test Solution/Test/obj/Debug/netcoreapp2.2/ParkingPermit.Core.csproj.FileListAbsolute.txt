@@ -1,0 +1,8 @@
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.Common.CoreResource.resources
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.csproj.GenerateResource.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.RazorAssemblyInfo.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.RazorAssemblyInfo.cs
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.AssemblyInfoInputs.cache
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\ParkingPermit.Core.AssemblyInfo.cs
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.dll
+C:\Smart Solution\SmartCityParkingPermit\TicketSearch.Security.Core\obj\Debug\netcoreapp2.2\TicketSearch.Security.Core.pdb

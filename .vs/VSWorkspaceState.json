@@ -3,12 +3,14 @@
     "",
     "\\SmartCityParkingPermit",
     "\\SmartCityParkingPermit\\SmartParkingPermit.Core",
+    "\\SmartCityParkingPermit\\SmartParkingPermit.Core\\AutoMapperProfile",
     "\\SmartCityParkingPermit\\_Solutions",
     "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\App_Start",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\bin",
     "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Controllers",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Model",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\obj",
-    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Properties"
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Model"
   ],
+  "SelectedNode": "\\SmartCityParkingPermit\\SmartParkingPermit.Core\\AutoMapperProfile\\Class.cs",
   "PreviewInSolutionExplorer": false
 }

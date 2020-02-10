@@ -1,0 +1,8 @@
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.csprojAssemblyReference.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\staticwebassets\TicketSearch.Security.Core.StaticWebAssets.Manifest.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\staticwebassets\TicketSearch.Security.Core.StaticWebAssets.xml
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.Common.CoreResource.resources
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.csproj.GenerateResource.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.MvcApplicationPartsAssemblyInfo.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.AssemblyInfoInputs.cache
+C:\TicketSearchSourceCode\TicketSearchSecurity\TicketSearch.Security.Core\obj\Debug\netcoreapp3.0\TicketSearch.Security.Core.AssemblyInfo.cs
