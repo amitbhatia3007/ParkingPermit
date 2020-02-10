@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
+    "",
     "\\SmartCityParkingPermit",
-    "\\SmartCityParkingPermit\\_Solutions"
+    "\\SmartCityParkingPermit\\SmartParkingPermit.Core",
+    "\\SmartCityParkingPermit\\_Solutions",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Controllers",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Model",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\obj",
+    "\\SmartCityParkingPermit\\_Solutions\\ParkingPermitHangfire\\Properties"
   ],
   "PreviewInSolutionExplorer": false
 }
